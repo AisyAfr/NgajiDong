@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "1",
+        "judul" : "Dzikir Setelah Shalat"
+    },
+    {
+        "id" : "2",
+        "judul" :"Dzikir Pagi"
+    },
+    {
+        "id" : "3",
+        "judul" : "Dzikir Petang"
+    }
+]
